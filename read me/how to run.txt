@@ -1,0 +1,27 @@
+!!!!!Take Care !!!!!
+
+Firstly u should chane server in Client.py with your server ýp in your ýnternet
+
+there is Client.py and Clients.py
+Please don't confuse the files
+
+Client.py = our client to join server
+Clients.py = keep the clients who joined server
+
+so you must run Client.py
+
+Running.
+
+1-Open CMD
+cd Path\To\Python.exe
+python Path\To\Server.py
+
+2-Open CMD
+cd Path\To\Python.exe
+python Path\To\Client.py
+
+You should write your nickname after run Client.py
+
+Then you can add more client use Step 2
+cd Path\To\Python.exe
+python Path\To\Client.py
